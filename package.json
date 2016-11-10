@@ -1,5 +1,5 @@
 {
-  "name": "moment-round",
+  "name": "@danielkalen/moment-round",
   "version": "1.0.1",
   "description": "Date rounding for Moment.js",
   "keywords": [ "moment", "moment.js", "date", "round" ],
